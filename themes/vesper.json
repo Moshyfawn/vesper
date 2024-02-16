@@ -121,7 +121,7 @@
         "modified": "#FFC799",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#585858",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": null,
